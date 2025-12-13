@@ -1,4 +1,4 @@
-# Smart-Contract
+# Time-Locked Message Vault Smart Contract
 
 Time-Locked Message Vault:
 
