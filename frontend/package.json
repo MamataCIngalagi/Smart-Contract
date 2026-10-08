@@ -1,0 +1,25 @@
+{
+  "name": "timelock-message-vault-ui",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "ethers": "6.17.0",
+    "lucide-react": "0.468.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.18",
+    "@types/react-dom": "18.3.5",
+    "@vitejs/plugin-react": "6.1.2",
+    "typescript": "5.7.3",
+    "vite": "8.3.3"
+  },
+  "proxy": "http://127.0.0.1:8080"
+}
